@@ -1,0 +1,6 @@
+{
+  "name": "LeaveEase",
+  "description": "Corporate employee leave management system with request tracking, approvals, team calendar, and leave policy analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
